@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stardia.de</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+     <h1>Stardia Survival Server</h1>
+    </header>
+
+    <main>
+        <div class="logo">
+            <img src="img/logo.png" alt="MyServer logo">
+        </div> 
+
+        <div class="items">
+      <a href="https://www.buymeacoffee.com/stardia" class="description" alt="description"><img class="Bild" src="img/desc.logo.png"width="90px" height="90px";></i>
+        <p class="t-description">BESCHREIBUNG</p>
+      </a>
+      <a href="https://discord.gg/2P3gzuHNyx" class="discord" alt="discord"><img class="Bild" src="img/discord.logo.png"width="90px" height="90px";></i>
+        <p class="t-discord">DISCORD</p>
+      </a>	
+			<a href="https://www.buymeacoffee.com/stardia" class="donations" alt="donations"><img class="Bild" src="img/dono.logo.png"width="90px" height="90px";></i>
+        <p class="t-donations">SPENDEN</p>
+			</a>
+		</div>
+    </main>
+
+    <footer>
+    </footer>
+    
+
+</body>

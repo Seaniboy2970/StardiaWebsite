@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('img/background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.logo{
+    margin-left: 42.8%;
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+img{
+    border-radius: 50%;
+}
+
+  header {
+    text-align: center;
+	margin-top: 2%;
+
+  }
+  
+  footer {
+    text-align: center;
+  }
+
+  .items {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: distribute;
+	    justify-content:center;
+	-ms-flex-preferred-size: 100px;
+
+
+
+}
+
+.discord{
+	margin-left: 3%;
+	margin-right: 5%;
+}
+.t-discord{
+	font-weight: bold;
+	color: antiquewhite;
+	text-decoration: underline;
+	margin-left: 10%;
+
+}
+.t-discord:hover{
+	font-weight: bolder;
+	color: gray;
+	text-decoration: underline;
+}
+.description{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.t-description{
+	font-weight: bold;
+	color: antiquewhite;
+	text-decoration: underline;
+	margin-left: -13%;
+}
+.t-description:hover{
+	font-weight: bolder;
+	color: gray;
+	text-decoration: underline;
+}
+.donations{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.t-donations{
+	font-weight: bold;
+	color: antiquewhite;
+	text-decoration: underline;
+	margin-left: 13%;
+}
+.t-donations:hover{
+	font-weight: bolder;
+	color: gray;
+	text-decoration: underline;
+}
+
+
